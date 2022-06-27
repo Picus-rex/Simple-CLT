@@ -1,4 +1,4 @@
-# CLT
+# Simple-CLT
 This simple tool computes variables of interest in the study of the classical lamination, such as the Hooke's law in matrix form (that link stresses and strains) for orthotropic materials under plain stress conditions and the three matrices that links the three membrane forces (for unit of length) and the three bending moments (for unit of length) to the generalized strains.
 ## Usage
 Simply run the two given scripts in a terminal window and follows the instructions. The first file, `Composite.py`, allows you compute the micromechanical elements of a single ply, that later are needed to creates the matrices of the entire laminate in `CLT.py`.<br>
